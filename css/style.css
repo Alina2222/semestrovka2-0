@@ -347,7 +347,7 @@ color: #ffc289;
 
 /* Hero секция */
 .hero {
-  background-image: url(../img/images/hero-bg.png);
+  background-image: url("../img/images/hero-bg.png");
   background-size: cover;
   position: relative;
   overflow: hidden;
